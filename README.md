@@ -11,3 +11,5 @@ Including how to work with Branches on GitHub.
 Now we are starting to cover undoing and rewriting.
 
 This is the first change to a fork of the hello-wolrd w3schools repository
+
+This is the second change to a fork of the hello-wolrd w3schools repository
